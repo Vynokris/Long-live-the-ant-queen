@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Enemy.cpp
+  Player.cpp
+  Pointer.cpp
+  Projectile.cpp
+  Queen.cpp
+  UI.cpp
+  Wave.cpp
+  Génération de code en cours...
+sfml-window-d.lib(sfml-window-d-2.dll) : fatal error LNK1112: type d'ordinateur module 'x86' en conflit avec le type d'ordinateur cible 'x64'
